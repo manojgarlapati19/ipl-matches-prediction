@@ -1,0 +1,23 @@
+
+> final-kepler@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.108:3000
+- Environments: .env.local
+✓ Ready in 1326ms
+Creating turbopack project {
+  dir: 'C:\\Users\\ttt0022\\Downloads\\Project\\final-kepler',
+  testMode: true
+}
+- Experiments (use with caution):
+  · serverActions
+
+○ Compiling / ...
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.108:3000
+- Environments: .env.local
+✓ Ready in 2.4s
+[?25h
